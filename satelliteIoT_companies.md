@@ -1,37 +1,37 @@
 [last update: 20230214]
 
-##asiasat GEO/LEO
+## asiasat GEO/LEO
 
-##astrocast LEO
+## astrocast LEO
 
-##echostar GEO
+## echostar GEO
 
-##esat global GEO
+## esat global GEO
 
-##eutelsat GEO/LEO
+## eutelsat GEO/LEO
 
-##fleet LEO LORA
+## fleet LEO LORA
 
-##globalstar LEO
+## globalstar LEO
 
-##inmarsat GEO/LEO
+## inmarsat GEO/LEO
 
-##iridium LEO
+## iridium LEO
 
-##kineis LEO LORA
+## kineis LEO LORA
 
-##lacuna LEO
+## lacuna LEO
 
-##mokolora (?)
+## mokolora (?)
 
-##myriota
+## myriota
 
-##orbcomm LEO
+## orbcomm LEO
 
-##skylo GEO
+## skylo GEO
 
-##swarm LEO
+## swarm LEO
 
-##thuraya GEO
+## thuraya GEO
 
-##wyld
+## wyld
