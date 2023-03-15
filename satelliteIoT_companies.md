@@ -2,6 +2,10 @@
 
 ## Asiasat GEO/LEO
 
+## Astranis GEO
+
+https://www.astranis.com/commercial-connectivity
+
 ## Astrocast LEO
 
 ## Echostar GEO
