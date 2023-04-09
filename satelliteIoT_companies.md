@@ -16,7 +16,7 @@ https://www.astranis.com/commercial-connectivity
 
 ## Astrocast LEO
 
-1.525 GHz to 1.559 GHz, 1.6265 GHz to 1.6605 GHz 
+1.525 GHz to 1.559 GHz down, 1.6265 GHz to 1.6605 GHz up
 
 ## Commsat
 
