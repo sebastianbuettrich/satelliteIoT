@@ -4,7 +4,9 @@
 
 https://www.nanosats.eu/
 
-https://www.newspace.im
+https://www.newspace.im - Currently lists 102 IoT constellations
+
+https://space.skyrocket.de/ - Gunter's space page
 
 # Constellations / companies
 
